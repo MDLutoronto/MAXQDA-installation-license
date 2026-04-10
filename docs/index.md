@@ -1,17 +1,17 @@
 ---
-title: Home   # Title of the page, which will be displayed in the navigation and the browser title.
+title: Home   # Install and License MAXQDA
 layout: page  # Layout type, usually 'page' for standard pages.
 nav_order: 1  # Order in the navigation menu.
-description:  # A brief description of the page for SEO purposes.
+description:  # This tutorial is for installing and licensing MAXQDA on Windows and MacOS computers. 
 permalink: /  # Optional: Custom URL for the page. It will serve as the slug. For example, /home/
-created_date:  # Date when the page was created. Should be in YYYY-MM-DD format.
+created_date:  # 2026-04-10
 has_children: False  # Set to True if the page has sub-pages.
 staff:  # Optional: Nested list of staff members associated with the page.
-  - name: Staff One  # PLACEHOLDER: Replace with actual staff member's name.
-    link: https://library.utoronto.ca/staff/staff-one  # link is optional
+  - name: Kelly Schultz
+    link: https://library.utoronto.ca/staff/kelly-schultz  # link is optional
 maintainer:
-  - name: Maintainer Name  # PLACEHOLDER: Replace with actual maintainer's name.
-    link: https://example.com/maintainer  # link is optional
+  - name: Kelly Schultz
+    link: https://library.utoronto.ca/staff/kelly-schultz  # link is optional
 # student_staff:  
 # - name: Student Name
 #   link: https://example.com/student-name
@@ -19,6 +19,39 @@ maintainer:
 #   link: https://example.com/another-student  # link is optional
 ---
 
-# Just the docs template
+# Install and License MAXQDA
 
-See the <a href="https://mdlutoronto.github.io/jtd-edit-setup/create-new-guide/" target="_blank"> Create a New Guide</a> page to get started with creating your own guide!
+This tutorial is for installing and licensing [MAXQDA](https://www.maxqda.com/) on Windows and MacOS computers. 
+
+Find information on how to request a license, download and install the software, as well as how to activate the license.
+
+## Request a License 
+
+1. Check MAXQDA’s system requirements [here](https://www.maxqda.com/products/system-requirements) before requesting the software
+2. If you are currently faculty, staff, or a student at the University of Toronto, fill out the **license request form**. You will receive an email with information that will be needed in step 9 of the setup
+
+## Download and Install MAXQDA
+
+<ol start="3"><li>Follow the [instructions](https://www.maxqda.com/help/install-and-activate-maxqda/how-to-install-maxqda) to download and install MAXQDA on your computer</li>
+</ol>
+
+## Activate the License
+
+<ol start="4"><li>**If you are off campus**, you will need to [setup UTORvpn](https://security.utoronto.ca/services/vpn/usage-guide/) (if you haven’t already) and then [connect to the VPN](https://uthrprod.service-now.com/sp?id=kb_article_view&sysparm_article=KB0011159) first in order to active your license (and every time you want to use MAXQDA when off campus). When you connect to the VPN, you may be prompted to login with your UTORID credentials</li>
+<li>Launch MAXQDA on your computer</li>
+<li>Accept the terms for the *End-User License Agreement* and click on **Continue**</li>
+<li>Agree to the *Privacy Policy* by clicking on **Continue**</li>
+<li>From the *Welcome to MAXQDA* pop-up window, select **Connect to your institution’s network license**</li>
+<li>Enter in the **server address** and the **port number** from the license request email</li>
+<li>Select **Search for licenses automatically** and click on the **circular arrow**</li>
+<li>An annual subscription entry should appear in the box below. Select it and click on **Connect**</li>
+</ol>
+
+You have now successfully connected to UofT’s site license for MAXQDA. MAXQDA will remember your license details, so you do not need to do this the next time you launch MAXQDA. 
+
+**NOTE: If you are off campus, you will need to continue to connect to VPN each time before you launch MAXQDA, otherwise you will get an error saying that it cannot connect to network license.**
+
+To get started learning how to use MAXQDA, consult our [guide](https://mdlutoronto.github.io/maxqda-info-resources-tutorials-workshops). Any questions? [Contact us](https://mdl.library.utoronto.ca/about/contact-form)!
+
+
+
