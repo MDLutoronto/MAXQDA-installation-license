@@ -32,26 +32,34 @@ Find information on how to request a license, download and install the software,
 
 ## Download and Install MAXQDA
 
-<ol start="3"><li>Follow the [instructions](https://www.maxqda.com/help/install-and-activate-maxqda/how-to-install-maxqda) to download and install MAXQDA on your computer</li>
-</ol>
+{:style="counter-reset:step-counter 2"}
+
+3. Follow the [instructions](https://www.maxqda.com/help/install-and-activate-maxqda/how-to-install-maxqda) to download and install MAXQDA on your computer
 
 ## Activate the License
 
-<ol start="4"><li>**If you are off campus**, you will need to [setup UTORvpn](https://security.utoronto.ca/services/vpn/usage-guide/) (if you haven’t already) and then [connect to the VPN](https://uthrprod.service-now.com/sp?id=kb_article_view&sysparm_article=KB0011159) first in order to active your license (and every time you want to use MAXQDA when off campus). When you connect to the VPN, you may be prompted to login with your UTORID credentials</li>
-<li>Launch MAXQDA on your computer</li>
-<li>Accept the terms for the *End-User License Agreement* and click on **Continue**</li>
-<li>Agree to the *Privacy Policy* by clicking on **Continue**</li>
-<li>From the *Welcome to MAXQDA* pop-up window, select **Connect to your institution’s network license**</li>
-<li>Enter in the **server address** and the **port number** from the license request email</li>
-<li>Select **Search for licenses automatically** and click on the **circular arrow**</li>
-<li>An annual subscription entry should appear in the box below. Select it and click on **Connect**</li>
-</ol>
+{:style="counter-reset:step-counter 3"}
+
+4. **If you are off campus**, you will need to [setup UTORvpn](https://security.utoronto.ca/services/vpn/usage-guide/) (if you haven’t already) and then [connect to the VPN](https://uthrprod.service-now.com/sp?id=kb_article_view&sysparm_article=KB0011159) first in order to active your license (and every time you want to use MAXQDA when off campus). When you connect to the VPN, you may be prompted to login with your UTORID credentials
+
+5. Launch MAXQDA on your computer
+
+6. Accept the terms for the *End-User License Agreement* and click on **Continue**
+
+7. Agree to the *Privacy Policy* by clicking on **Continue**
+
+8. From the *Welcome to MAXQDA* pop-up window, select **Connect to your institution’s network license**
+
+9. Enter in the **server address** and the **port number** from the license request email
+
+10. Select **Search for licenses automatically** and click on the **circular arrow**
+
+11. An annual subscription entry should appear in the box below. Select it and click on **Connect**
 
 You have now successfully connected to UofT’s site license for MAXQDA. MAXQDA will remember your license details, so you do not need to do this the next time you launch MAXQDA. 
 
 **NOTE: If you are off campus, you will need to continue to connect to VPN each time before you launch MAXQDA, otherwise you will get an error saying that it cannot connect to network license.**
 
 To get started learning how to use MAXQDA, consult our [guide](https://mdlutoronto.github.io/maxqda-info-resources-tutorials-workshops). Any questions? [Contact us](https://mdl.library.utoronto.ca/about/contact-form)!
-
 
 
