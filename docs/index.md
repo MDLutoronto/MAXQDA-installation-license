@@ -60,6 +60,10 @@ You have now successfully connected to UofT’s site license for MAXQDA. MAXQDA 
 
 **NOTE: If you are off campus, you will need to continue to connect to VPN each time before you launch MAXQDA, otherwise you will get an error saying that it cannot connect to network license.**
 
+## Sign up for a MAXQDA account (if you want to use the AI-Assist features)
+
+If you want to use the AI-Assist features, you will need a free MAXQDA Account. Consult MAXQDA's [Account page](https://www.maxqda.com/help/the-maxqda-account) for more details on how to sign-up and log in to your MAXQDA Account through MAXQDA.
+
 To get started learning how to use MAXQDA, consult our [guide](https://mdlutoronto.github.io/maxqda-info-resources-tutorials-workshops). Any questions? [Contact us](https://mdl.library.utoronto.ca/about/contact-form)!
 
 
