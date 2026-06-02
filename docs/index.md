@@ -4,7 +4,7 @@ layout: page  # Layout type, usually 'page' for standard pages.
 nav_order: 1  # Order in the navigation menu.
 description:  # This tutorial is for installing and licensing MAXQDA on Windows and MacOS computers. 
 permalink: /  # Optional: Custom URL for the page. It will serve as the slug. For example, /home/
-created_date:  # 2026-04-10
+created_date:  2026-04-10
 has_children: False  # Set to True if the page has sub-pages.
 staff:  # Optional: Nested list of staff members associated with the page.
   - name: Kelly Schultz
