@@ -28,7 +28,7 @@ Find information on how to request a license, download and install the software,
 ## Request a License 
 
 1. Check MAXQDA’s system requirements [here](https://www.maxqda.com/products/system-requirements) before requesting the software
-2. If you are currently faculty, staff, or a student at the University of Toronto, fill out the [license request form](https://forms.cloud.microsoft/r/Ju3uy1FCeC). You will receive an email with information that will be needed in step 9 of the setup
+2. If you are currently faculty, staff, or a student at the University of Toronto, fill out the [license request form](https://tools.library.utoronto.ca/maxqda-request). You will receive an email with information that will be needed in step 9 of the setup
 
 ## Download and Install MAXQDA
 
@@ -40,7 +40,7 @@ Find information on how to request a license, download and install the software,
 
 {:style="counter-reset:step-counter 3"}
 
-4. **If you are off campus**, you will need to [setup UTORvpn](https://security.utoronto.ca/services/vpn/usage-guide/) (if you haven’t already) and then [connect to the VPN](https://uthrprod.service-now.com/sp?id=kb_article_view&sysparm_article=KB0011159) first in order to active your license (and every time you want to use MAXQDA when off campus). When you connect to the VPN, you may be prompted to login with your UTORID credentials
+4. **If you are off campus**, you will need to [setup UTORvpn](https://security.utoronto.ca/services/vpn/usage-guide/) (if you haven’t already) and then [connect to the VPN](https://uthrprod.service-now.com/sp?id=kb_article_view&sysparm_article=KB0011159) first in order to activate your license (and every time you want to use MAXQDA when off campus). When you connect to the VPN, you may be prompted to login with your UTORID credentials
 
 5. Launch MAXQDA on your computer
 
