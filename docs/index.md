@@ -28,7 +28,7 @@ Find information on how to request a license, download and install the software,
 ## Request a License 
 
 1. Check MAXQDA’s system requirements [here](https://www.maxqda.com/products/system-requirements) before requesting the software
-2. If you are currently faculty, staff, or a student at the University of Toronto, fill out the [license request form](https://tools.library.utoronto.ca/maxqda-request). You will receive an email with information that will be needed in step 9 of the setup
+2. If you are currently faculty, staff, or a student at the University of Toronto, fill out the [license request form](https://forms.cloud.microsoft/r/Ju3uy1FCeC). You will receive an email with information that will be needed in step 9 of the setup
 
 ## Download and Install MAXQDA
 
