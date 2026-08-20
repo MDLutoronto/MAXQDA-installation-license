@@ -64,6 +64,8 @@ You have now successfully connected to UofT’s site license for MAXQDA. MAXQDA 
 
 If you want to use the AI-Assist features, you will need a free MAXQDA Account. Consult MAXQDA's [Account page](https://www.maxqda.com/help/the-maxqda-account) for more details on how to sign-up and log in to your MAXQDA Account through MAXQDA.
 
-To get started learning how to use MAXQDA, consult our [guide](https://mdlutoronto.github.io/maxqda-info-resources-tutorials-workshops). Any questions? [Contact us](https://mdl.library.utoronto.ca/about/contact-form)!
+Keep in mind, [U of T's general guidelines and information on AI](https://ai.utoronto.ca/research/), especially [guidance on its appropriate use](https://www.sgs.utoronto.ca/about/guidance-on-the-use-of-generative-artificial-intelligence/), if you are a student.
+
+To get started learning how to use MAXQDA, including its AI features, consult our [guide](https://mdlutoronto.github.io/maxqda-info-resources-tutorials-workshops). Any questions? [Contact us](https://mdl.library.utoronto.ca/about/contact-form)!
 
 **Technique:** [Installation](https://mdlutoronto.github.io/tutorials-search/?technique=Installation) \| **Tools** [MAXQDA](https://mdlutoronto.github.io/tutorials-search/?tool=MAXQDA)
