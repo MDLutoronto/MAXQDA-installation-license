@@ -58,7 +58,7 @@ Find information on how to request a license, download and install the software,
 
 You have now successfully connected to UofT’s site license for MAXQDA. MAXQDA will remember your license details, so you do not need to do this the next time you launch MAXQDA. 
 
-**NOTE: If you are off campus, you will need to continue to connect to VPN each time before you launch MAXQDA, otherwise you will get an error saying that it cannot connect to network license.**
+**NOTE: If you are off campus, you will need to continue to connect to UTORvpn each time before you launch MAXQDA, otherwise you will get an error saying that it cannot connect to the network license server.**
 
 ## Sign up for a MAXQDA account (if you want to use the AI-Assist features)
 
