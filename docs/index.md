@@ -40,7 +40,7 @@ Find information on how to request a license, download and install the software,
 
 {:style="counter-reset:step-counter 3"}
 
-4. **If you are off campus**, you will need to [install U of T's VPN software](https://uthrprod.service-now.com/kb_view.do?sysparm_article=KB0012379) (if you haven’t already) and then [connect to UTORvpn](https://uthrprod.service-now.com/sp?id=kb_article_view&sysparm_article=KB0011159) first in order to activate your license **(and you will need to connect to UTORvpn every time you want to use MAXQDA when off campus)**. During this process, you may be prompted to login with your UTORID credentials
+4. **If you are off campus**, you will need to [install U of T's VPN software](https://uthrprod.service-now.com/kb_view.do?sysparm_article=KB0012379) (if you haven’t already - scroll down on the page for detailed instructions for both Windows and MacOS users) and then [connect to UTORvpn](https://uthrprod.service-now.com/sp?id=kb_article_view&sysparm_article=KB0011159) first in order to activate your license **(and you will need to connect to UTORvpn every time you want to use MAXQDA when off campus)**. During this process, you may be prompted to login with your UTORID credentials
 
 5. Launch MAXQDA on your computer
 
